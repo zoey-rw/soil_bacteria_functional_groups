@@ -1,0 +1,402 @@
+	Cohort	Category	Substrate	Antibiotic	Anaerobic_Type	Stress	Gas_Status	Replicate	ModuleName	ModuleNameRep
+DN_stresses_nacetylglucosamine_10percentcarbon_ae_1_plate0001	DanFunctionalModules2	Stresses	n-acetylglucosamine	NA	NA	10%C	aerobic	1	10%C_n-acetylglucosamine	10%C_n-acetylglucosamine_1
+DN_stresses_nacetylglucosamine_10percentcarbon_ae_2_plate0001	DanFunctionalModules2	Stresses	n-acetylglucosamine	NA	NA	10%C	aerobic	2	10%C_n-acetylglucosamine	10%C_n-acetylglucosamine_2
+DN_stresses_nacetylglucosamine_10percentcarbon_ae_6_plate0001	DanFunctionalModules2	Stresses	n-acetylglucosamine	NA	NA	10%C	aerobic	3	10%C_n-acetylglucosamine	10%C_n-acetylglucosamine_3
+DN_stresses_nacetylglucosamine_10percentcarbon_ae_7_plate0001	DanFunctionalModules2	Stresses	n-acetylglucosamine	NA	NA	10%C	aerobic	4	10%C_n-acetylglucosamine	10%C_n-acetylglucosamine_4
+DN_stresses_nacetylglucosamine_10percentcarbon_ae_8_plate0001	DanFunctionalModules2	Stresses	n-acetylglucosamine	NA	NA	10%C	aerobic	5	10%C_n-acetylglucosamine	10%C_n-acetylglucosamine_5
+DN_stresses_nacetylglucosamine_10percentcarbon_ae_10_plate0001	DanFunctionalModules2	Stresses	n-acetylglucosamine	NA	NA	10%C	aerobic	6	10%C_n-acetylglucosamine	10%C_n-acetylglucosamine_6
+DN_stresses_xylan_10percentcarbon_ae_4_plate0001	DanFunctionalModules2	Stresses	xylan	NA	NA	10%C	aerobic	1	10%C_xylan	10%C_xylan_1
+DN_stresses_xylan_10percentcarbon_ae_5_plate0001	DanFunctionalModules2	Stresses	xylan	NA	NA	10%C	aerobic	2	10%C_xylan	10%C_xylan_2
+DN_stresses_xylan_10percentcarbon_ae_7_plate0001	DanFunctionalModules2	Stresses	xylan	NA	NA	10%C	aerobic	3	10%C_xylan	10%C_xylan_3
+DN_stresses_xylan_10percentcarbon_ae_11_plate0001	DanFunctionalModules2	Stresses	xylan	NA	NA	10%C	aerobic	4	10%C_xylan	10%C_xylan_4
+DN_stresses_xylan_10percentcarbon_ae_12_plate0001	DanFunctionalModules2	Stresses	xylan	NA	NA	10%C	aerobic	5	10%C_xylan	10%C_xylan_5
+DN_stresses_xylose_10percentcarbon_ae_1_plate0001	DanFunctionalModules2	Stresses	xylose	NA	NA	10%C	aerobic	1	10%C_xylose	10%C_xylose_1
+DN_stresses_xylose_10percentcarbon_ae_2_plate0001	DanFunctionalModules2	Stresses	xylose	NA	NA	10%C	aerobic	2	10%C_xylose	10%C_xylose_2
+DN_stresses_xylose_10percentcarbon_ae_3_plate0001	DanFunctionalModules2	Stresses	xylose	NA	NA	10%C	aerobic	3	10%C_xylose	10%C_xylose_3
+DN_stresses_xylose_10percentcarbon_ae_4_plate0001	DanFunctionalModules2	Stresses	xylose	NA	NA	10%C	aerobic	4	10%C_xylose	10%C_xylose_4
+DN_stresses_xylose_10percentcarbon_ae_9_plate0001	DanFunctionalModules2	Stresses	xylose	NA	NA	10%C	aerobic	5	10%C_xylose	10%C_xylose_5
+DN_stresses_xylose_10percentcarbon_ae_10_plate0001	DanFunctionalModules2	Stresses	xylose	NA	NA	10%C	aerobic	6	10%C_xylose	10%C_xylose_6
+DN_stresses_24Donly_24D_ae_2_plate0002	DanFunctionalModules2	Stresses	"2,4-D"	NA	NA	"2,4-D"	aerobic	1	"2,4-D_2,4-D"	"2,4-D_2,4-D_1"
+DN_stresses_24Donly_24D_ae_4_plate0002	DanFunctionalModules2	Stresses	"2,4-D"	NA	NA	"2,4-D"	aerobic	2	"2,4-D_2,4-D"	"2,4-D_2,4-D_2"
+DN_stresses_24Donly_24D_ae_6_plate0002	DanFunctionalModules2	Stresses	"2,4-D"	NA	NA	"2,4-D"	aerobic	3	"2,4-D_2,4-D"	"2,4-D_2,4-D_3"
+DN_stresses_24Donly_24D_ae_7_plate0002	DanFunctionalModules2	Stresses	"2,4-D"	NA	NA	"2,4-D"	aerobic	4	"2,4-D_2,4-D"	"2,4-D_2,4-D_4"
+DN_stresses_24Donly_24D_ae_8_plate0002	DanFunctionalModules2	Stresses	"2,4-D"	NA	NA	"2,4-D"	aerobic	5	"2,4-D_2,4-D"	"2,4-D_2,4-D_5"
+DN_stresses_24Donly_24D_ae_9_plate0002	DanFunctionalModules2	Stresses	"2,4-D"	NA	NA	"2,4-D"	aerobic	6	"2,4-D_2,4-D"	"2,4-D_2,4-D_6"
+DN_stresses_nacetylglucosamine_24D_ae_1_plate0002	DanFunctionalModules2	Stresses	n-acetylglucosamine	NA	NA	"2,4-D"	aerobic	1	"2,4-D_n-acetylglucosamine"	"2,4-D_n-acetylglucosamine_1"
+DN_stresses_nacetylglucosamine_24D_ae_3_plate0002	DanFunctionalModules2	Stresses	n-acetylglucosamine	NA	NA	"2,4-D"	aerobic	2	"2,4-D_n-acetylglucosamine"	"2,4-D_n-acetylglucosamine_2"
+DN_stresses_nacetylglucosamine_24D_ae_4_plate0002	DanFunctionalModules2	Stresses	n-acetylglucosamine	NA	NA	"2,4-D"	aerobic	3	"2,4-D_n-acetylglucosamine"	"2,4-D_n-acetylglucosamine_3"
+DN_stresses_nacetylglucosamine_24D_ae_5_plate0002	DanFunctionalModules2	Stresses	n-acetylglucosamine	NA	NA	"2,4-D"	aerobic	4	"2,4-D_n-acetylglucosamine"	"2,4-D_n-acetylglucosamine_4"
+DN_stresses_nacetylglucosamine_24D_ae_6_plate0002	DanFunctionalModules2	Stresses	n-acetylglucosamine	NA	NA	"2,4-D"	aerobic	5	"2,4-D_n-acetylglucosamine"	"2,4-D_n-acetylglucosamine_5"
+DN_stresses_nacetylglucosamine_24D_ae_8_plate0002	DanFunctionalModules2	Stresses	n-acetylglucosamine	NA	NA	"2,4-D"	aerobic	6	"2,4-D_n-acetylglucosamine"	"2,4-D_n-acetylglucosamine_6"
+DN_stresses_xylan_24D_ae_1_plate0002	DanFunctionalModules2	Stresses	xylan	NA	NA	"2,4-D"	aerobic	1	"2,4-D_xylan"	"2,4-D_xylan_1"
+DN_stresses_xylan_24D_ae_4_plate0002	DanFunctionalModules2	Stresses	xylan	NA	NA	"2,4-D"	aerobic	2	"2,4-D_xylan"	"2,4-D_xylan_2"
+DN_stresses_xylan_24D_ae_6_plate0002	DanFunctionalModules2	Stresses	xylan	NA	NA	"2,4-D"	aerobic	3	"2,4-D_xylan"	"2,4-D_xylan_3"
+DN_stresses_xylan_24D_ae_7_plate0002	DanFunctionalModules2	Stresses	xylan	NA	NA	"2,4-D"	aerobic	4	"2,4-D_xylan"	"2,4-D_xylan_4"
+DN_stresses_xylan_24D_ae_8_plate0002	DanFunctionalModules2	Stresses	xylan	NA	NA	"2,4-D"	aerobic	5	"2,4-D_xylan"	"2,4-D_xylan_5"
+DN_stresses_xylan_24D_ae_9_plate0002	DanFunctionalModules2	Stresses	xylan	NA	NA	"2,4-D"	aerobic	6	"2,4-D_xylan"	"2,4-D_xylan_6"
+DN_stresses_xylose_24D_ae_1_plate0002	DanFunctionalModules2	Stresses	xylose	NA	NA	"2,4-D"	aerobic	1	"2,4-D_xylose"	"2,4-D_xylose_1"
+DN_stresses_xylose_24D_ae_2_plate0002	DanFunctionalModules2	Stresses	xylose	NA	NA	"2,4-D"	aerobic	2	"2,4-D_xylose"	"2,4-D_xylose_2"
+DN_stresses_xylose_24D_ae_4_plate0002	DanFunctionalModules2	Stresses	xylose	NA	NA	"2,4-D"	aerobic	3	"2,4-D_xylose"	"2,4-D_xylose_3"
+DN_stresses_xylose_24D_ae_6_plate0002	DanFunctionalModules2	Stresses	xylose	NA	NA	"2,4-D"	aerobic	4	"2,4-D_xylose"	"2,4-D_xylose_4"
+DN_stresses_xylose_24D_ae_7_plate0002	DanFunctionalModules2	Stresses	xylose	NA	NA	"2,4-D"	aerobic	5	"2,4-D_xylose"	"2,4-D_xylose_5"
+DN_stresses_xylose_24D_ae_9_plate0002	DanFunctionalModules2	Stresses	xylose	NA	NA	"2,4-D"	aerobic	6	"2,4-D_xylose"	"2,4-D_xylose_6"
+DN_organicacids_acetate_ae_1_A	DanFunctionalModules1	Simple Substrates	acetate	NA	NA	NA	aerobic	1	acetate	acetate_1
+DN_organicacids_acetate_ae_2_A	DanFunctionalModules1	Simple Substrates	acetate	NA	NA	NA	aerobic	2	acetate	acetate_2
+DN_organicacids_acetate_ae_3_A	DanFunctionalModules1	Simple Substrates	acetate	NA	NA	NA	aerobic	3	acetate	acetate_3
+DN_organicacids_acetate_ae_4_A	DanFunctionalModules1	Simple Substrates	acetate	NA	NA	NA	aerobic	4	acetate	acetate_4
+DN_organicacids_acetate_ae_5_A	DanFunctionalModules1	Simple Substrates	acetate	NA	NA	NA	aerobic	5	acetate	acetate_5
+DN_anaerobic_glc_posacetogen_an_10_A	DanFunctionalModules1	Anaerobic	glucose	NA	acetogen	NA	anaerobic	1	acetogen	acetogen_1
+DN_anaerobic_glc_posacetogen_an_16_A	DanFunctionalModules1	Anaerobic	glucose	NA	acetogen	NA	anaerobic	2	acetogen	acetogen_2
+DN_anaerobic_glcwithacetogen_NA_an_22_plate0002	DanFunctionalModules2	Anaerobic	glucose	NA	acetogen	NA	anaerobic	6	acetogen	acetogen_6
+DN_anaerobic_glcwithacetogen_NA_an_24_plate0002	DanFunctionalModules2	Anaerobic	glucose	NA	acetogen	NA	anaerobic	7	acetogen	acetogen_7
+DN_anaerobic_glc_posacetogen_an_18_A	DanFunctionalModules1	Anaerobic	glucose	NA	acetogen	NA	anaerobic	3	acetogen	acetogen_3
+DN_anaerobic_glc_posacetogen_an_19_A	DanFunctionalModules1	Anaerobic	glucose	NA	acetogen	NA	anaerobic	4	acetogen	acetogen_4
+DN_anaerobic_glc_posacetogen_an_5_A	DanFunctionalModules1	Anaerobic	glucose	NA	acetogen	NA	anaerobic	5	acetogen	acetogen_5
+DN_anaerobic_glcwithacetogen_NA_an_59_plate0002	DanFunctionalModules2	Anaerobic	glucose	NA	acetogen	NA	anaerobic	8	acetogen	acetogen_8
+DN_anaerobic_glcwithacetogen_NA_an_63_plate0002	DanFunctionalModules2	Anaerobic	glucose	NA	acetogen	NA	anaerobic	9	acetogen	acetogen_9
+DN_anaerobic_glcwithacetogen_NA_an_64_plate0002	DanFunctionalModules2	Anaerobic	glucose	NA	acetogen	NA	anaerobic	10	acetogen	acetogen_10
+DN_plantsugars_arabinose_ae_1_A	DanFunctionalModules1	Simple Substrates	arabinose	NA	NA	NA	aerobic	1	arabinose	arabinose_1
+DN_plantsugars_arabinose_ae_2_A	DanFunctionalModules1	Simple Substrates	arabinose	NA	NA	NA	aerobic	2	arabinose	arabinose_2
+DN_simplesugar_arabinose_NA_ae_21_plate0002	DanFunctionalModules2	Simple Substrates	arabinose	NA	NA	NA	aerobic	4	arabinose	arabinose_4
+DN_simplesugar_arabinose_NA_ae_25_plate0002	DanFunctionalModules2	Simple Substrates	arabinose	NA	NA	NA	aerobic	5	arabinose	arabinose_5
+DN_simplesugar_arabinose_NA_ae_27_plate0002	DanFunctionalModules2	Simple Substrates	arabinose	NA	NA	NA	aerobic	6	arabinose	arabinose_6
+DN_plantsugars_arabinose_ae_5_A	DanFunctionalModules1	Simple Substrates	arabinose	NA	NA	NA	aerobic	3	arabinose	arabinose_3
+DN_BEN_EARLY_8_31_18_1	DanFunctionalModules1	Antibiotics	glucose	benomyl	NA	NA	aerobic	1	benomyl	benomyl_1
+DN_BEN_LATE_8_31_18_1	DanFunctionalModules1	Antibiotics	glucose	benomyl	NA	NA	aerobic	1	benomyl	benomyl_1
+DN_BEN_EARLY_8_31_18_2	DanFunctionalModules1	Antibiotics	glucose	benomyl	NA	NA	aerobic	2	benomyl	benomyl_2
+DN_BEN_LATE_8_31_18_2	DanFunctionalModules1	Antibiotics	glucose	benomyl	NA	NA	aerobic	2	benomyl	benomyl_2
+DN_BEN_EARLY_8_31_18_3	DanFunctionalModules1	Antibiotics	glucose	benomyl	NA	NA	aerobic	3	benomyl	benomyl_3
+DN_BEN_LATE_8_31_18_3	DanFunctionalModules1	Antibiotics	glucose	benomyl	NA	NA	aerobic	3	benomyl	benomyl_3
+DN_BEN_EARLY_8_31_18_4	DanFunctionalModules1	Antibiotics	glucose	benomyl	NA	NA	aerobic	4	benomyl	benomyl_4
+DN_BEN_LATE_8_31_18_4	DanFunctionalModules1	Antibiotics	glucose	benomyl	NA	NA	aerobic	4	benomyl	benomyl_4
+DN_BEN_EARLY_8_31_18_5	DanFunctionalModules1	Antibiotics	glucose	benomyl	NA	NA	aerobic	5	benomyl	benomyl_5
+DN_BEN_LATE_8_31_18_5	DanFunctionalModules1	Antibiotics	glucose	benomyl	NA	NA	aerobic	5	benomyl	benomyl_5
+DN_plantsugars_cellobiose_ae_1_A	DanFunctionalModules1	Polysaccharides	cellobiose	NA	NA	NA	aerobic	1	cellobiose	cellobiose_1
+DN_plantsugars_cellobiose_ae_2_A	DanFunctionalModules1	Polysaccharides	cellobiose	NA	NA	NA	aerobic	2	cellobiose	cellobiose_2
+DN_plantsugars_cellobiose_ae_3_A	DanFunctionalModules1	Polysaccharides	cellobiose	NA	NA	NA	aerobic	3	cellobiose	cellobiose_3
+DN_plantsugars_cellobiose_ae_4_A	DanFunctionalModules1	Polysaccharides	cellobiose	NA	NA	NA	aerobic	4	cellobiose	cellobiose_4
+DN_plantsugars_cellobiose_ae_5_A	DanFunctionalModules1	Polysaccharides	cellobiose	NA	NA	NA	aerobic	5	cellobiose	cellobiose_5
+DN_plantsugars_cellulose_ae_1_A	DanFunctionalModules1	Polysaccharides	cellulose	NA	NA	NA	aerobic	1	cellulose	cellulose_1
+DN_plantsugars_cellulose_ae_4_A	DanFunctionalModules1	Polysaccharides	cellulose	NA	NA	NA	aerobic	2	cellulose	cellulose_2
+DN_plantsugars_cellulose_ae_5_A	DanFunctionalModules1	Polysaccharides	cellulose	NA	NA	NA	aerobic	3	cellulose	cellulose_3
+DN_plantsugars_cellulose_ae_6_A	DanFunctionalModules1	Polysaccharides	cellulose	NA	NA	NA	aerobic	4	cellulose	cellulose_4
+DN_plantsugars_cellulose_ae_7_A	DanFunctionalModules1	Polysaccharides	cellulose	NA	NA	NA	aerobic	5	cellulose	cellulose_5
+DN_plantsugars_cellulose_ae_8_A	DanFunctionalModules1	Polysaccharides	cellulose	NA	NA	NA	aerobic	6	cellulose	cellulose_6
+DN_plantsugars_chitin_ae_1_A	DanFunctionalModules1	Polysaccharides	chitin	NA	NA	NA	aerobic	1	chitin	chitin_1
+DN_plantsugars_chitin_ae_2_A	DanFunctionalModules1	Polysaccharides	chitin	NA	NA	NA	aerobic	2	chitin	chitin_2
+DN_plantsugars_chitin_ae_3_A	DanFunctionalModules1	Polysaccharides	chitin	NA	NA	NA	aerobic	3	chitin	chitin_3
+DN_plantsugars_chitin_ae_4_A	DanFunctionalModules1	Polysaccharides	chitin	NA	NA	NA	aerobic	4	chitin	chitin_4
+DN_plantsugars_chitin_ae_5_A	DanFunctionalModules1	Polysaccharides	chitin	NA	NA	NA	aerobic	5	chitin	chitin_5
+DN_antibiotics_glc_poschloramphenicol_ae_1_A	DanFunctionalModules1	Antibiotics	glucose	chloramphenicol	NA	NA	aerobic	1	chloramphenicol	chloramphenicol_1
+DN_antibiotics_glc_poschloramphenicol_ae_2_A	DanFunctionalModules1	Antibiotics	glucose	chloramphenicol	NA	NA	aerobic	2	chloramphenicol	chloramphenicol_2
+DN_antibiotics_glc_poschloramphenicol_ae_3_A	DanFunctionalModules1	Antibiotics	glucose	chloramphenicol	NA	NA	aerobic	3	chloramphenicol	chloramphenicol_3
+DN_antibiotics_glc_poschloramphenicol_ae_4_A	DanFunctionalModules1	Antibiotics	glucose	chloramphenicol	NA	NA	aerobic	4	chloramphenicol	chloramphenicol_4
+DN_antibiotics_glc_poschloramphenicol_ae_5_A	DanFunctionalModules1	Antibiotics	glucose	chloramphenicol	NA	NA	aerobic	5	chloramphenicol	chloramphenicol_5
+DN_CIT_10E3_7_17_18_1	DanFunctionalModules1	Simple Substrates	citrate	NA	NA	NA	aerobic	1	citrate	citrate_1
+DN_CIT_10E3_7_17_18_2	DanFunctionalModules1	Simple Substrates	citrate	NA	NA	NA	aerobic	2	citrate	citrate_2
+DN_CIT_10E3_7_17_18_3	DanFunctionalModules1	Simple Substrates	citrate	NA	NA	NA	aerobic	3	citrate	citrate_3
+DN_CIT_10E3_7_17_18_4	DanFunctionalModules1	Simple Substrates	citrate	NA	NA	NA	aerobic	4	citrate	citrate_4
+DN_CIT_10E3_7_17_18_5	DanFunctionalModules1	Simple Substrates	citrate	NA	NA	NA	aerobic	5	citrate	citrate_5
+DN_plantsugars_D_galacturonicacid_ae_1_A	DanFunctionalModules1	Simple Substrates	D-galacturonicacid	NA	NA	NA	aerobic	1	D-galacturonicacid	D-galacturonicacid_1
+DN_plantsugars_D_galacturonicacid_ae_2_A	DanFunctionalModules1	Simple Substrates	D-galacturonicacid	NA	NA	NA	aerobic	2	D-galacturonicacid	D-galacturonicacid_2
+DN_plantsugars_D_galacturonicacid_ae_3_A	DanFunctionalModules1	Simple Substrates	D-galacturonicacid	NA	NA	NA	aerobic	3	D-galacturonicacid	D-galacturonicacid_3
+DN_plantsugars_D_galacturonicacid_ae_4_A	DanFunctionalModules1	Simple Substrates	D-galacturonicacid	NA	NA	NA	aerobic	4	D-galacturonicacid	D-galacturonicacid_4
+DN_plantsugars_D_galacturonicacid_ae_5_A	DanFunctionalModules1	Simple Substrates	D-galacturonicacid	NA	NA	NA	aerobic	5	D-galacturonicacid	D-galacturonicacid_5
+DN_plantsugars_D_glucuronicacid_ae_1_A	DanFunctionalModules1	Simple Substrates	D-glucuronicacid	NA	NA	NA	aerobic	1	D-glucuronicacid	D-glucuronicacid_1
+DN_plantsugars_D_glucuronicacid_ae_2_A	DanFunctionalModules1	Simple Substrates	D-glucuronicacid	NA	NA	NA	aerobic	2	D-glucuronicacid	D-glucuronicacid_2
+DN_simplesugar_Dglucuronicacid_NA_ae_23_plate0002	DanFunctionalModules2	Simple Substrates	D-glucuronicacid	NA	NA	NA	aerobic	5	D-glucuronicacid	D-glucuronicacid_5
+DN_simplesugar_Dglucuronicacid_NA_ae_28_plate0002	DanFunctionalModules2	Simple Substrates	D-glucuronicacid	NA	NA	NA	aerobic	6	D-glucuronicacid	D-glucuronicacid_6
+DN_plantsugars_D_glucuronicacid_ae_4_A	DanFunctionalModules1	Simple Substrates	D-glucuronicacid	NA	NA	NA	aerobic	3	D-glucuronicacid	D-glucuronicacid_3
+DN_plantsugars_D_glucuronicacid_ae_5_A	DanFunctionalModules1	Simple Substrates	D-glucuronicacid	NA	NA	NA	aerobic	4	D-glucuronicacid	D-glucuronicacid_4
+DN_antibiotics_glc_poserythromycin_ae_1_A	DanFunctionalModules1	Antibiotics	glucose	erythromycin	NA	NA	aerobic	1	erythromycin	erythromycin_1
+DN_antibiotics_glcwitherythromycin_NA_ae_10_plate0002	DanFunctionalModules2	Antibiotics	glucose	erythromycin	NA	NA	aerobic	6	erythromycin	erythromycin_6
+DN_antibiotics_glcwitherythromycin_NA_ae_12_plate0002	DanFunctionalModules2	Antibiotics	glucose	erythromycin	NA	NA	aerobic	7	erythromycin	erythromycin_7
+DN_antibiotics_glcwitherythromycin_NA_ae_14_plate0002	DanFunctionalModules2	Antibiotics	glucose	erythromycin	NA	NA	aerobic	8	erythromycin	erythromycin_8
+DN_antibiotics_glc_poserythromycin_ae_3_A	DanFunctionalModules1	Antibiotics	glucose	erythromycin	NA	NA	aerobic	2	erythromycin	erythromycin_2
+DN_antibiotics_glc_poserythromycin_ae_5_A	DanFunctionalModules1	Antibiotics	glucose	erythromycin	NA	NA	aerobic	3	erythromycin	erythromycin_3
+DN_antibiotics_glc_poserythromycin_ae_7_A	DanFunctionalModules1	Antibiotics	glucose	erythromycin	NA	NA	aerobic	4	erythromycin	erythromycin_4
+DN_antibiotics_glc_poserythromycin_ae_9_A	DanFunctionalModules1	Antibiotics	glucose	erythromycin	NA	NA	aerobic	5	erythromycin	erythromycin_5
+DN_anaerobic_glc_posfs_FeSO4_an_1_A	DanFunctionalModules1	Anaerobic	glucose	NA	fsFeSO4	NA	anaerobic	1	fsFeSO4	fsFeSO4_1
+DN_anaerobic_glc_posfs_FeSO4_an_4_A	DanFunctionalModules1	Anaerobic	glucose	NA	fsFeSO4	NA	anaerobic	2	fsFeSO4	fsFeSO4_2
+DN_anaerobic_glcwithfsFeSO4_NA_an_21_plate0002	DanFunctionalModules2	Anaerobic	glucose	NA	fsFeSO4	NA	anaerobic	4	fsFeSO4	fsFeSO4_4
+DN_anaerobic_glcwithfsFeSO4_NA_an_23_plate0002	DanFunctionalModules2	Anaerobic	glucose	NA	fsFeSO4	NA	anaerobic	5	fsFeSO4	fsFeSO4_5
+DN_anaerobic_glcwithfsFeSO4_NA_an_25_plate0002	DanFunctionalModules2	Anaerobic	glucose	NA	fsFeSO4	NA	anaerobic	6	fsFeSO4	fsFeSO4_6
+DN_anaerobic_glc_posfs_FeSO4_an_10_A	DanFunctionalModules1	Anaerobic	glucose	NA	fsFeSO4	NA	anaerobic	3	fsFeSO4	fsFeSO4_3
+DN_plantsugars_galactose_ae_1_A	DanFunctionalModules1	Simple Substrates	galactose	NA	NA	NA	aerobic	1	galactose	galactose_1
+DN_plantsugars_galactose_ae_2_A	DanFunctionalModules1	Simple Substrates	galactose	NA	NA	NA	aerobic	2	galactose	galactose_2
+DN_plantsugars_galactose_ae_3_A	DanFunctionalModules1	Simple Substrates	galactose	NA	NA	NA	aerobic	3	galactose	galactose_3
+DN_plantsugars_galactose_ae_4_A	DanFunctionalModules1	Simple Substrates	galactose	NA	NA	NA	aerobic	4	galactose	galactose_4
+DN_plantsugars_galactose_ae_5_A	DanFunctionalModules1	Simple Substrates	galactose	NA	NA	NA	aerobic	5	galactose	galactose_5
+DN_antibiotics_glc_posgentamycin_ae_1_A	DanFunctionalModules1	Antibiotics	glucose	gentamycin	NA	NA	aerobic	1	gentamycin	gentamycin_1
+DN_antibiotics_glc_posgentamycin_ae_2_A	DanFunctionalModules1	Antibiotics	glucose	gentamycin	NA	NA	aerobic	2	gentamycin	gentamycin_2
+DN_antibiotics_glc_posgentamycin_ae_3_A	DanFunctionalModules1	Antibiotics	glucose	gentamycin	NA	NA	aerobic	3	gentamycin	gentamycin_3
+DN_antibiotics_glc_posgentamycin_ae_4_A	DanFunctionalModules1	Antibiotics	glucose	gentamycin	NA	NA	aerobic	4	gentamycin	gentamycin_4
+DN_antibiotics_glc_posgentamycin_ae_5_A	DanFunctionalModules1	Antibiotics	glucose	gentamycin	NA	NA	aerobic	5	gentamycin	gentamycin_5
+DN_plantsugars_glucosamine_ae_1_A	DanFunctionalModules1	Simple Substrates	glucosamine	NA	NA	NA	aerobic	1	glucosamine	glucosamine_1
+DN_plantsugars_glucosamine_ae_7_A	DanFunctionalModules1	Simple Substrates	glucosamine	NA	NA	NA	aerobic	2	glucosamine	glucosamine_2
+DN_plantsugars_glucosamine_ae_8_A	DanFunctionalModules1	Simple Substrates	glucosamine	NA	NA	NA	aerobic	3	glucosamine	glucosamine_3
+DN_plantsugars_glucosamine_ae_9_A	DanFunctionalModules1	Simple Substrates	glucosamine	NA	NA	NA	aerobic	4	glucosamine	glucosamine_4
+DN_plantsugars_glucosamine_ae_10_A	DanFunctionalModules1	Simple Substrates	glucosamine	NA	NA	NA	aerobic	5	glucosamine	glucosamine_5
+DN_GLC_10E3_7_17_18_1	DanFunctionalModules1	Simple Substrates	glucose	NA	NA	control	aerobic	1	glucose	glucose_1
+DN_GLC_10E3_7_17_18_2	DanFunctionalModules1	Simple Substrates	glucose	NA	NA	control	aerobic	2	glucose	glucose_2
+DN_GLC_10E3_7_17_18_3	DanFunctionalModules1	Simple Substrates	glucose	NA	NA	control	aerobic	3	glucose	glucose_3
+DN_GLC_10E3_7_17_18_4	DanFunctionalModules1	Simple Substrates	glucose	NA	NA	control	aerobic	4	glucose	glucose_4
+DN_GLC_10E3_7_17_18_5	DanFunctionalModules1	Simple Substrates	glucose	NA	NA	control	aerobic	5	glucose	glucose_5
+DN_organicacids_glutamate_ae_1_B	DanFunctionalModules1	Simple Substrates	glutamate	NA	NA	NA	aerobic	1	glutamate	glutamate_1
+DN_organicacids_glutamate_ae_2_B	DanFunctionalModules1	Simple Substrates	glutamate	NA	NA	NA	aerobic	2	glutamate	glutamate_2
+DN_organicacids_glutamate_ae_3_B	DanFunctionalModules1	Simple Substrates	glutamate	NA	NA	NA	aerobic	3	glutamate	glutamate_3
+DN_organicacids_glutamate_ae_4_B	DanFunctionalModules1	Simple Substrates	glutamate	NA	NA	NA	aerobic	4	glutamate	glutamate_4
+DN_organicacids_glutamate_ae_5_B	DanFunctionalModules1	Simple Substrates	glutamate	NA	NA	NA	aerobic	5	glutamate	glutamate_5
+DN_misc_glycerol_ae_3_B	DanFunctionalModules1	Simple Substrates	glycerol	NA	NA	NA	aerobic	3	glycerol	glycerol_3
+DN_misc_glycerol_ae_4_B	DanFunctionalModules1	Simple Substrates	glycerol	NA	NA	NA	aerobic	4	glycerol	glycerol_4
+DN_misc_glycerol_ae_5_B	DanFunctionalModules1	Simple Substrates	glycerol	NA	NA	NA	aerobic	5	glycerol	glycerol_5
+DN_GLY_10E3_7_23_18_1	DanFunctionalModules1	Simple Substrates	glycine	NA	NA	NA	aerobic	1	glycine	glycine_1
+DN_GLY_10E3_7_23_18_2	DanFunctionalModules1	Simple Substrates	glycine	NA	NA	NA	aerobic	2	glycine	glycine_2
+DN_GLY_10E3_7_23_18_3	DanFunctionalModules1	Simple Substrates	glycine	NA	NA	NA	aerobic	3	glycine	glycine_3
+DN_GLY_10E3_7_23_18_4	DanFunctionalModules1	Simple Substrates	glycine	NA	NA	NA	aerobic	4	glycine	glycine_4
+DN_GLY_10E3_7_23_18_5	DanFunctionalModules1	Simple Substrates	glycine	NA	NA	NA	aerobic	5	glycine	glycine_5
+DN_organicacids_glyoxylate_ae_1_B	DanFunctionalModules1	Simple Substrates	glyoxylate	NA	NA	NA	aerobic	1	glyoxylate	glyoxylate_1
+DN_organicacids_glyoxylate_ae_2_B	DanFunctionalModules1	Simple Substrates	glyoxylate	NA	NA	NA	aerobic	2	glyoxylate	glyoxylate_2
+DN_organicacids_glyoxylate_ae_5_B	DanFunctionalModules1	Simple Substrates	glyoxylate	NA	NA	NA	aerobic	3	glyoxylate	glyoxylate_3
+DN_organicacids_glyoxylate_ae_6_B	DanFunctionalModules1	Simple Substrates	glyoxylate	NA	NA	NA	aerobic	4	glyoxylate	glyoxylate_4
+DN_organicacids_glyoxylate_ae_10_B	DanFunctionalModules1	Simple Substrates	glyoxylate	NA	NA	NA	aerobic	5	glyoxylate	glyoxylate_5
+DN_stresses_nacetylglucosamine_heat_ae_1_plate0001	DanFunctionalModules2	Stresses	n-acetylglucosamine	NA	NA	heat	aerobic	1	heat_n-acetylglucosamine	heat_n-acetylglucosamine_1
+DN_stresses_nacetylglucosamine_heat_ae_4_plate0001	DanFunctionalModules2	Stresses	n-acetylglucosamine	NA	NA	heat	aerobic	2	heat_n-acetylglucosamine	heat_n-acetylglucosamine_2
+DN_stresses_nacetylglucosamine_heat_ae_5_plate0001	DanFunctionalModules2	Stresses	n-acetylglucosamine	NA	NA	heat	aerobic	3	heat_n-acetylglucosamine	heat_n-acetylglucosamine_3
+DN_stresses_nacetylglucosamine_heat_ae_7_plate0001	DanFunctionalModules2	Stresses	n-acetylglucosamine	NA	NA	heat	aerobic	4	heat_n-acetylglucosamine	heat_n-acetylglucosamine_4
+DN_stresses_nacetylglucosamine_heat_ae_8_plate0001	DanFunctionalModules2	Stresses	n-acetylglucosamine	NA	NA	heat	aerobic	5	heat_n-acetylglucosamine	heat_n-acetylglucosamine_5
+DN_stresses_xylan_heat_ae_1_plate0001	DanFunctionalModules2	Stresses	xylan	NA	NA	heat	aerobic	1	heat_xylan	heat_xylan_1
+DN_stresses_xylan_heat_ae_3_plate0001	DanFunctionalModules2	Stresses	xylan	NA	NA	heat	aerobic	2	heat_xylan	heat_xylan_2
+DN_stresses_xylan_heat_ae_4_plate0001	DanFunctionalModules2	Stresses	xylan	NA	NA	heat	aerobic	3	heat_xylan	heat_xylan_3
+DN_stresses_xylan_heat_ae_9_plate0001	DanFunctionalModules2	Stresses	xylan	NA	NA	heat	aerobic	4	heat_xylan	heat_xylan_4
+DN_stresses_xylan_heat_ae_13_plate0001	DanFunctionalModules2	Stresses	xylan	NA	NA	heat	aerobic	5	heat_xylan	heat_xylan_5
+DN_stresses_xylan_heat_ae_14_plate0001	DanFunctionalModules2	Stresses	xylan	NA	NA	heat	aerobic	6	heat_xylan	heat_xylan_6
+DN_stresses_xylose_heat_ae_2_plate0001	DanFunctionalModules2	Stresses	xylose	NA	NA	heat	aerobic	1	heat_xylose	heat_xylose_1
+DN_stresses_xylose_heat_ae_4_plate0001	DanFunctionalModules2	Stresses	xylose	NA	NA	heat	aerobic	2	heat_xylose	heat_xylose_2
+DN_stresses_xylose_heat_ae_6_plate0001	DanFunctionalModules2	Stresses	xylose	NA	NA	heat	aerobic	3	heat_xylose	heat_xylose_3
+DN_stresses_xylose_heat_ae_7_plate0001	DanFunctionalModules2	Stresses	xylose	NA	NA	heat	aerobic	4	heat_xylose	heat_xylose_4
+DN_stresses_xylose_heat_ae_8_plate0001	DanFunctionalModules2	Stresses	xylose	NA	NA	heat	aerobic	5	heat_xylose	heat_xylose_5
+DN_anaerobic_glc_posironcitrate_an_1_A	DanFunctionalModules1	Anaerobic	glucose	NA	ironcitrate	NA	anaerobic	1	ironcitrate	ironcitrate_1
+DN_anaerobic_glcwithironcitrate_NA_an_11_plate0002	DanFunctionalModules2	Anaerobic	glucose	NA	ironcitrate	NA	anaerobic	6	ironcitrate	ironcitrate_6
+DN_anaerobic_glcwithironcitrate_NA_an_12_plate0002	DanFunctionalModules2	Anaerobic	glucose	NA	ironcitrate	NA	anaerobic	7	ironcitrate	ironcitrate_7
+DN_anaerobic_glcwithironcitrate_NA_an_15_plate0002	DanFunctionalModules2	Anaerobic	glucose	NA	ironcitrate	NA	anaerobic	8	ironcitrate	ironcitrate_8
+DN_anaerobic_glc_posironcitrate_an_2_A	DanFunctionalModules1	Anaerobic	glucose	NA	ironcitrate	NA	anaerobic	2	ironcitrate	ironcitrate_2
+DN_anaerobic_glc_posironcitrate_an_3_A	DanFunctionalModules1	Anaerobic	glucose	NA	ironcitrate	NA	anaerobic	3	ironcitrate	ironcitrate_3
+DN_anaerobic_glc_posironcitrate_an_4_A	DanFunctionalModules1	Anaerobic	glucose	NA	ironcitrate	NA	anaerobic	4	ironcitrate	ironcitrate_4
+DN_anaerobic_glc_posironcitrate_an_5_A	DanFunctionalModules1	Anaerobic	glucose	NA	ironcitrate	NA	anaerobic	5	ironcitrate	ironcitrate_5
+DN_stresses_nacetylglucosamine_late_ae_1_plate0001	DanFunctionalModules2	Stresses	n-acetylglucosamine	NA	NA	late	aerobic	1	late_n-acetylglucosamine	late_n-acetylglucosamine_1
+DN_stresses_nacetylglucosamine_late_ae_2_plate0001	DanFunctionalModules2	Stresses	n-acetylglucosamine	NA	NA	late	aerobic	2	late_n-acetylglucosamine	late_n-acetylglucosamine_2
+DN_stresses_nacetylglucosamine_late_ae_3_plate0001	DanFunctionalModules2	Stresses	n-acetylglucosamine	NA	NA	late	aerobic	3	late_n-acetylglucosamine	late_n-acetylglucosamine_3
+DN_stresses_nacetylglucosamine_late_ae_4_plate0001	DanFunctionalModules2	Stresses	n-acetylglucosamine	NA	NA	late	aerobic	4	late_n-acetylglucosamine	late_n-acetylglucosamine_4
+DN_stresses_nacetylglucosamine_late_ae_5_plate0001	DanFunctionalModules2	Stresses	n-acetylglucosamine	NA	NA	late	aerobic	5	late_n-acetylglucosamine	late_n-acetylglucosamine_5
+DN_stresses_nacetylglucosamine_late_ae_6_plate0001	DanFunctionalModules2	Stresses	n-acetylglucosamine	NA	NA	late	aerobic	6	late_n-acetylglucosamine	late_n-acetylglucosamine_6
+DN_stresses_xylan_late_ae_1_plate0001	DanFunctionalModules2	Stresses	xylan	NA	NA	late	aerobic	1	late_xylan	late_xylan_1
+DN_stresses_xylan_late_ae_2_plate0001	DanFunctionalModules2	Stresses	xylan	NA	NA	late	aerobic	2	late_xylan	late_xylan_2
+DN_stresses_xylan_late_ae_3_plate0001	DanFunctionalModules2	Stresses	xylan	NA	NA	late	aerobic	3	late_xylan	late_xylan_3
+DN_stresses_xylan_late_ae_4_plate0001	DanFunctionalModules2	Stresses	xylan	NA	NA	late	aerobic	4	late_xylan	late_xylan_4
+DN_stresses_xylan_late_ae_5_plate0001	DanFunctionalModules2	Stresses	xylan	NA	NA	late	aerobic	5	late_xylan	late_xylan_5
+DN_stresses_xylan_late_ae_6_plate0001	DanFunctionalModules2	Stresses	xylan	NA	NA	late	aerobic	6	late_xylan	late_xylan_6
+DN_stresses_xylose_late_ae_1_plate0001	DanFunctionalModules2	Stresses	xylose	NA	NA	late	aerobic	1	late_xylose	late_xylose_1
+DN_stresses_xylose_late_ae_2_plate0001	DanFunctionalModules2	Stresses	xylose	NA	NA	late	aerobic	2	late_xylose	late_xylose_2
+DN_stresses_xylose_late_ae_3_plate0001	DanFunctionalModules2	Stresses	xylose	NA	NA	late	aerobic	3	late_xylose	late_xylose_3
+DN_stresses_xylose_late_ae_4_plate0001	DanFunctionalModules2	Stresses	xylose	NA	NA	late	aerobic	4	late_xylose	late_xylose_4
+DN_stresses_xylose_late_ae_5_plate0001	DanFunctionalModules2	Stresses	xylose	NA	NA	late	aerobic	5	late_xylose	late_xylose_5
+DN_stresses_xylose_late_ae_6_plate0001	DanFunctionalModules2	Stresses	xylose	NA	NA	late	aerobic	6	late_xylose	late_xylose_6
+DN_stresses_nacetylglucosamine_light_ae_1_plate0001	DanFunctionalModules2	Stresses	n-acetylglucosamine	NA	NA	light	aerobic	1	light_n-acetylglucosamine	light_n-acetylglucosamine_1
+DN_stresses_nacetylglucosamine_light_ae_4_plate0001	DanFunctionalModules2	Stresses	n-acetylglucosamine	NA	NA	light	aerobic	2	light_n-acetylglucosamine	light_n-acetylglucosamine_2
+DN_stresses_nacetylglucosamine_light_ae_5_plate0001	DanFunctionalModules2	Stresses	n-acetylglucosamine	NA	NA	light	aerobic	3	light_n-acetylglucosamine	light_n-acetylglucosamine_3
+DN_stresses_nacetylglucosamine_light_ae_6_plate0001	DanFunctionalModules2	Stresses	n-acetylglucosamine	NA	NA	light	aerobic	4	light_n-acetylglucosamine	light_n-acetylglucosamine_4
+DN_stresses_nacetylglucosamine_light_ae_8_plate0001	DanFunctionalModules2	Stresses	n-acetylglucosamine	NA	NA	light	aerobic	5	light_n-acetylglucosamine	light_n-acetylglucosamine_5
+DN_stresses_xylan_light_ae_3_plate0001	DanFunctionalModules2	Stresses	xylan	NA	NA	light	aerobic	1	light_xylan	light_xylan_1
+DN_stresses_xylan_light_ae_4_plate0001	DanFunctionalModules2	Stresses	xylan	NA	NA	light	aerobic	2	light_xylan	light_xylan_2
+DN_stresses_xylan_light_ae_5_plate0001	DanFunctionalModules2	Stresses	xylan	NA	NA	light	aerobic	3	light_xylan	light_xylan_3
+DN_stresses_xylan_light_ae_6_plate0001	DanFunctionalModules2	Stresses	xylan	NA	NA	light	aerobic	4	light_xylan	light_xylan_4
+DN_stresses_xylan_light_ae_7_plate0001	DanFunctionalModules2	Stresses	xylan	NA	NA	light	aerobic	5	light_xylan	light_xylan_5
+DN_stresses_xylan_light_ae_9_plate0001	DanFunctionalModules2	Stresses	xylan	NA	NA	light	aerobic	6	light_xylan	light_xylan_6
+DN_stresses_xylose_light_ae_1_plate0001	DanFunctionalModules2	Stresses	xylose	NA	NA	light	aerobic	1	light_xylose	light_xylose_1
+DN_stresses_xylose_light_ae_2_plate0001	DanFunctionalModules2	Stresses	xylose	NA	NA	light	aerobic	2	light_xylose	light_xylose_2
+DN_stresses_xylose_light_ae_3_plate0001	DanFunctionalModules2	Stresses	xylose	NA	NA	light	aerobic	3	light_xylose	light_xylose_3
+DN_stresses_xylose_light_ae_4_plate0001	DanFunctionalModules2	Stresses	xylose	NA	NA	light	aerobic	4	light_xylose	light_xylose_4
+DN_stresses_xylose_light_ae_5_plate0001	DanFunctionalModules2	Stresses	xylose	NA	NA	light	aerobic	5	light_xylose	light_xylose_5
+DN_organicacids_malate_ae_1_B	DanFunctionalModules1	Simple Substrates	malate	NA	NA	NA	aerobic	1	malate	malate_1
+DN_organicacids_malate_ae_2_B	DanFunctionalModules1	Simple Substrates	malate	NA	NA	NA	aerobic	2	malate	malate_2
+DN_organicacids_malate_ae_3_B	DanFunctionalModules1	Simple Substrates	malate	NA	NA	NA	aerobic	3	malate	malate_3
+DN_organicacids_malate_ae_4_B	DanFunctionalModules1	Simple Substrates	malate	NA	NA	NA	aerobic	4	malate	malate_4
+DN_plantsugars_mannose_ae_1_B	DanFunctionalModules1	Simple Substrates	mannose	NA	NA	NA	aerobic	1	mannose	mannose_1
+DN_plantsugars_mannose_ae_2_B	DanFunctionalModules1	Simple Substrates	mannose	NA	NA	NA	aerobic	2	mannose	mannose_2
+DN_plantsugars_mannose_ae_3_B	DanFunctionalModules1	Simple Substrates	mannose	NA	NA	NA	aerobic	3	mannose	mannose_3
+DN_plantsugars_mannose_ae_4_B	DanFunctionalModules1	Simple Substrates	mannose	NA	NA	NA	aerobic	4	mannose	mannose_4
+DN_plantsugars_mannose_ae_5_B	DanFunctionalModules1	Simple Substrates	mannose	NA	NA	NA	aerobic	5	mannose	mannose_5
+DN_MEOH_10E3_7_23_18_1	DanFunctionalModules1	Simple Substrates	methanol	NA	NA	NA	aerobic	1	methanol	methanol_1
+DN_MEOH_10E3_7_23_18_2	DanFunctionalModules1	Simple Substrates	methanol	NA	NA	NA	aerobic	2	methanol	methanol_2
+DN_MEOH_10E3_7_23_18_3	DanFunctionalModules1	Simple Substrates	methanol	NA	NA	NA	aerobic	3	methanol	methanol_3
+DN_MEOH_10E3_7_23_18_4	DanFunctionalModules1	Simple Substrates	methanol	NA	NA	NA	aerobic	4	methanol	methanol_4
+DN_MEOH_10E3_7_23_18_5	DanFunctionalModules1	Simple Substrates	methanol	NA	NA	NA	aerobic	5	methanol	methanol_5
+DN_plantsugars_n_acetylglucosamine_ae_4_B	DanFunctionalModules1	Simple Substrates	n-acetylglucosamine	NA	NA	control	aerobic	1	n-acetylglucosamine	n-acetylglucosamine_1
+DN_plantsugars_n_acetylglucosamine_ae_5_B	DanFunctionalModules1	Simple Substrates	n-acetylglucosamine	NA	NA	control	aerobic	2	n-acetylglucosamine	n-acetylglucosamine_2
+DN_plantsugars_n_acetylglucosamine_ae_7_B	DanFunctionalModules1	Simple Substrates	n-acetylglucosamine	NA	NA	control	aerobic	3	n-acetylglucosamine	n-acetylglucosamine_3
+DN_plantsugars_n_acetylglucosamine_ae_8_B	DanFunctionalModules1	Simple Substrates	n-acetylglucosamine	NA	NA	control	aerobic	4	n-acetylglucosamine	n-acetylglucosamine_4
+DN_plantsugars_n_acetylglucosamine_ae_9_B	DanFunctionalModules1	Simple Substrates	n-acetylglucosamine	NA	NA	control	aerobic	5	n-acetylglucosamine	n-acetylglucosamine_5
+DN_anaerobic_glc_posnon_fs_FeSO4_an_2_A	DanFunctionalModules1	Anaerobic	glucose	NA	nonfsFeSO4	NA	anaerobic	1	nonfsFeSO4	nonfsFeSO4_1
+DN_anaerobic_glc_posnon_fs_FeSO4_an_3_A	DanFunctionalModules1	Anaerobic	glucose	NA	nonfsFeSO4	NA	anaerobic	2	nonfsFeSO4	nonfsFeSO4_2
+DN_anaerobic_glcwithnonfsFeSO4_NA_an_20_plate0002	DanFunctionalModules2	Anaerobic	glucose	NA	nonfsFeSO4	NA	anaerobic	6	nonfsFeSO4	nonfsFeSO4_6
+DN_anaerobic_glc_posnon_fs_FeSO4_an_4_A	DanFunctionalModules1	Anaerobic	glucose	NA	nonfsFeSO4	NA	anaerobic	3	nonfsFeSO4	nonfsFeSO4_3
+DN_anaerobic_glc_posnon_fs_FeSO4_an_10_A	DanFunctionalModules1	Anaerobic	glucose	NA	nonfsFeSO4	NA	anaerobic	4	nonfsFeSO4	nonfsFeSO4_4
+DN_anaerobic_glc_posnon_fs_FeSO4_an_15_A	DanFunctionalModules1	Anaerobic	glucose	NA	nonfsFeSO4	NA	anaerobic	5	nonfsFeSO4	nonfsFeSO4_5
+DN_antibiotics_glc_posnystatin_ae_1_B	DanFunctionalModules1	Antibiotics	glucose	nystatin	NA	NA	aerobic	1	nystatin	nystatin_1
+DN_antibiotics_glc_posnystatin_ae_2_B	DanFunctionalModules1	Antibiotics	glucose	nystatin	NA	NA	aerobic	2	nystatin	nystatin_2
+DN_antibiotics_glc_posnystatin_ae_3_B	DanFunctionalModules1	Antibiotics	glucose	nystatin	NA	NA	aerobic	3	nystatin	nystatin_3
+DN_antibiotics_glc_posnystatin_ae_4_B	DanFunctionalModules1	Antibiotics	glucose	nystatin	NA	NA	aerobic	4	nystatin	nystatin_4
+DN_antibiotics_glc_posnystatin_ae_5_B	DanFunctionalModules1	Antibiotics	glucose	nystatin	NA	NA	aerobic	5	nystatin	nystatin_5
+DN_plantsugars_pectin_ae_1_B	DanFunctionalModules1	Polysaccharides	pectin	NA	NA	NA	aerobic	1	pectin	pectin_1
+DN_plantsugars_pectin_ae_3_B	DanFunctionalModules1	Polysaccharides	pectin	NA	NA	NA	aerobic	2	pectin	pectin_2
+DN_plantsugars_pectin_ae_4_B	DanFunctionalModules1	Polysaccharides	pectin	NA	NA	NA	aerobic	3	pectin	pectin_3
+DN_plantsugars_pectin_ae_5_B	DanFunctionalModules1	Polysaccharides	pectin	NA	NA	NA	aerobic	4	pectin	pectin_4
+DN_plantsugars_pectin_ae_6_B	DanFunctionalModules1	Polysaccharides	pectin	NA	NA	NA	aerobic	5	pectin	pectin_5
+DN_plantsugars_pectin_ae_8_B	DanFunctionalModules1	Polysaccharides	pectin	NA	NA	NA	aerobic	6	pectin	pectin_6
+DN_plantsugars_pectin_ae_10_B	DanFunctionalModules1	Polysaccharides	pectin	NA	NA	NA	aerobic	7	pectin	pectin_7
+DN_stresses_nacetylglucosamine_PEG_ae_2_plate0002	DanFunctionalModules2	Stresses	n-acetylglucosamine	NA	NA	PEG	aerobic	1	PEG_n-acetylglucosamine	PEG_n-acetylglucosamine_1
+DN_stresses_nacetylglucosamine_PEG_ae_4_plate0002	DanFunctionalModules2	Stresses	n-acetylglucosamine	NA	NA	PEG	aerobic	2	PEG_n-acetylglucosamine	PEG_n-acetylglucosamine_2
+DN_stresses_nacetylglucosamine_PEG_ae_5_plate0002	DanFunctionalModules2	Stresses	n-acetylglucosamine	NA	NA	PEG	aerobic	3	PEG_n-acetylglucosamine	PEG_n-acetylglucosamine_3
+DN_stresses_nacetylglucosamine_PEG_ae_6_plate0002	DanFunctionalModules2	Stresses	n-acetylglucosamine	NA	NA	PEG	aerobic	4	PEG_n-acetylglucosamine	PEG_n-acetylglucosamine_4
+DN_stresses_nacetylglucosamine_PEG_ae_7_plate0002	DanFunctionalModules2	Stresses	n-acetylglucosamine	NA	NA	PEG	aerobic	5	PEG_n-acetylglucosamine	PEG_n-acetylglucosamine_5
+DN_stresses_xylan_PEG_ae_1_plate0002	DanFunctionalModules2	Stresses	xylan	NA	NA	PEG	aerobic	1	PEG_xylan	PEG_xylan_1
+DN_stresses_xylan_PEG_ae_3_plate0002	DanFunctionalModules2	Stresses	xylan	NA	NA	PEG	aerobic	2	PEG_xylan	PEG_xylan_2
+DN_stresses_xylan_PEG_ae_7_plate0002	DanFunctionalModules2	Stresses	xylan	NA	NA	PEG	aerobic	3	PEG_xylan	PEG_xylan_3
+DN_stresses_xylan_PEG_ae_9_plate0002	DanFunctionalModules2	Stresses	xylan	NA	NA	PEG	aerobic	4	PEG_xylan	PEG_xylan_4
+DN_stresses_xylan_PEG_ae_10_plate0002	DanFunctionalModules2	Stresses	xylan	NA	NA	PEG	aerobic	5	PEG_xylan	PEG_xylan_5
+DN_stresses_xylan_PEG_ae_12_plate0002	DanFunctionalModules2	Stresses	xylan	NA	NA	PEG	aerobic	6	PEG_xylan	PEG_xylan_6
+DN_stresses_xylose_PEG_ae_1_plate0002	DanFunctionalModules2	Stresses	xylose	NA	NA	PEG	aerobic	1	PEG_xylose	PEG_xylose_1
+DN_stresses_xylose_PEG_ae_3_plate0002	DanFunctionalModules2	Stresses	xylose	NA	NA	PEG	aerobic	2	PEG_xylose	PEG_xylose_2
+DN_stresses_xylose_PEG_ae_5_plate0002	DanFunctionalModules2	Stresses	xylose	NA	NA	PEG	aerobic	3	PEG_xylose	PEG_xylose_3
+DN_stresses_xylose_PEG_ae_6_plate0002	DanFunctionalModules2	Stresses	xylose	NA	NA	PEG	aerobic	4	PEG_xylose	PEG_xylose_4
+DN_stresses_xylose_PEG_ae_7_plate0002	DanFunctionalModules2	Stresses	xylose	NA	NA	PEG	aerobic	5	PEG_xylose	PEG_xylose_5
+DN_pHtest_glc_pospH6_14_ae_1_A	DanFunctionalModules1	Stresses	glucose	NA	NA	pH6	aerobic	1	pH6_glucose	pH6_glucose_1
+DN_pHtest_glc_pospH6_14_ae_2_A	DanFunctionalModules1	Stresses	glucose	NA	NA	pH6	aerobic	2	pH6_glucose	pH6_glucose_2
+DN_pHtest_glc_pospH6_14_ae_3_A	DanFunctionalModules1	Stresses	glucose	NA	NA	pH6	aerobic	3	pH6_glucose	pH6_glucose_3
+DN_pHtest_glc_pospH6_14_ae_4_A	DanFunctionalModules1	Stresses	glucose	NA	NA	pH6	aerobic	4	pH6_glucose	pH6_glucose_4
+DN_pHtest_glc_pospH6_14_ae_5_A	DanFunctionalModules1	Stresses	glucose	NA	NA	pH6	aerobic	5	pH6_glucose	pH6_glucose_5
+DN_pHtest_n_acetylglucosamine_pospH6_14_ae_1_B	DanFunctionalModules1	Stresses	n-acetylglucosamine	NA	NA	pH6	aerobic	1	pH6_n-acetylglucosamine	pH6_n-acetylglucosamine_1
+DN_pHtest_n_acetylglucosamine_pospH6_14_ae_2_B	DanFunctionalModules1	Stresses	n-acetylglucosamine	NA	NA	pH6	aerobic	2	pH6_n-acetylglucosamine	pH6_n-acetylglucosamine_2
+DN_pHtest_n_acetylglucosamine_pospH6_14_ae_3_B	DanFunctionalModules1	Stresses	n-acetylglucosamine	NA	NA	pH6	aerobic	3	pH6_n-acetylglucosamine	pH6_n-acetylglucosamine_3
+DN_pHtest_n_acetylglucosamine_pospH6_14_ae_4_B	DanFunctionalModules1	Stresses	n-acetylglucosamine	NA	NA	pH6	aerobic	4	pH6_n-acetylglucosamine	pH6_n-acetylglucosamine_4
+DN_pHtest_n_acetylglucosamine_pospH6_14_ae_5_B	DanFunctionalModules1	Stresses	n-acetylglucosamine	NA	NA	pH6	aerobic	5	pH6_n-acetylglucosamine	pH6_n-acetylglucosamine_5
+DN_pHtest_glc_pospH8_14_ae_2_A	DanFunctionalModules1	Stresses	glucose	NA	NA	pH8	aerobic	1	pH8_glucose	pH8_glucose_1
+DN_pHtest_glc_pospH8_14_ae_4_A	DanFunctionalModules1	Stresses	glucose	NA	NA	pH8	aerobic	2	pH8_glucose	pH8_glucose_2
+DN_pHtest_glc_pospH8_14_ae_5_A	DanFunctionalModules1	Stresses	glucose	NA	NA	pH8	aerobic	3	pH8_glucose	pH8_glucose_3
+DN_pHtest_glc_pospH8_14_ae_6_A	DanFunctionalModules1	Stresses	glucose	NA	NA	pH8	aerobic	4	pH8_glucose	pH8_glucose_4
+DN_pHtest_glc_pospH8_14_ae_7_A	DanFunctionalModules1	Stresses	glucose	NA	NA	pH8	aerobic	5	pH8_glucose	pH8_glucose_5
+DN_pHtest_n_acetylglucosamine_pospH8_14_ae_1_B	DanFunctionalModules1	Stresses	n-acetylglucosamine	NA	NA	pH8	aerobic	1	pH8_n-acetylglucosamine	pH8_n-acetylglucosamine_1
+DN_pHtest_n_acetylglucosamine_pospH8_14_ae_2_B	DanFunctionalModules1	Stresses	n-acetylglucosamine	NA	NA	pH8	aerobic	2	pH8_n-acetylglucosamine	pH8_n-acetylglucosamine_2
+DN_pHtest_n_acetylglucosamine_pospH8_14_ae_4_B	DanFunctionalModules1	Stresses	n-acetylglucosamine	NA	NA	pH8	aerobic	3	pH8_n-acetylglucosamine	pH8_n-acetylglucosamine_3
+DN_pHtest_n_acetylglucosamine_pospH8_14_ae_5_B	DanFunctionalModules1	Stresses	n-acetylglucosamine	NA	NA	pH8	aerobic	4	pH8_n-acetylglucosamine	pH8_n-acetylglucosamine_4
+DN_pHtest_n_acetylglucosamine_pospH8_14_ae_6_B	DanFunctionalModules1	Stresses	n-acetylglucosamine	NA	NA	pH8	aerobic	5	pH8_n-acetylglucosamine	pH8_n-acetylglucosamine_5
+DN_pHtest_n_acetylglucosamine_pospH8_14_ae_7_B	DanFunctionalModules1	Stresses	n-acetylglucosamine	NA	NA	pH8	aerobic	6	pH8_n-acetylglucosamine	pH8_n-acetylglucosamine_6
+DN_stresses_xylan_pH8_ae_2_plate0001	DanFunctionalModules2	Stresses	xylan	NA	NA	pH8	aerobic	1	pH8_xylan	pH8_xylan_1
+DN_stresses_xylan_pH8_ae_5_plate0001	DanFunctionalModules2	Stresses	xylan	NA	NA	pH8	aerobic	2	pH8_xylan	pH8_xylan_2
+DN_stresses_xylan_pH8_ae_6_plate0001	DanFunctionalModules2	Stresses	xylan	NA	NA	pH8	aerobic	3	pH8_xylan	pH8_xylan_3
+DN_stresses_xylan_pH8_ae_7_plate0001	DanFunctionalModules2	Stresses	xylan	NA	NA	pH8	aerobic	4	pH8_xylan	pH8_xylan_4
+DN_stresses_xylan_pH8_ae_8_plate0001	DanFunctionalModules2	Stresses	xylan	NA	NA	pH8	aerobic	5	pH8_xylan	pH8_xylan_5
+DN_stresses_xylan_pH8_ae_9_plate0001	DanFunctionalModules2	Stresses	xylan	NA	NA	pH8	aerobic	6	pH8_xylan	pH8_xylan_6
+DN_stresses_xylose_pH8_ae_1_plate0001	DanFunctionalModules2	Stresses	xylose	NA	NA	pH8	aerobic	1	pH8_xylose	pH8_xylose_1
+DN_stresses_xylose_pH8_ae_2_plate0001	DanFunctionalModules2	Stresses	xylose	NA	NA	pH8	aerobic	2	pH8_xylose	pH8_xylose_2
+DN_stresses_xylose_pH8_ae_3_plate0001	DanFunctionalModules2	Stresses	xylose	NA	NA	pH8	aerobic	3	pH8_xylose	pH8_xylose_3
+DN_stresses_xylose_pH8_ae_4_plate0001	DanFunctionalModules2	Stresses	xylose	NA	NA	pH8	aerobic	4	pH8_xylose	pH8_xylose_4
+DN_stresses_xylose_pH8_ae_5_plate0001	DanFunctionalModules2	Stresses	xylose	NA	NA	pH8	aerobic	5	pH8_xylose	pH8_xylose_5
+DN_stresses_xylose_pH8_ae_6_plate0001	DanFunctionalModules2	Stresses	xylose	NA	NA	pH8	aerobic	6	pH8_xylose	pH8_xylose_6
+DN_anaerobic_glc_pospotassiumnitrate_an_1_A	DanFunctionalModules1	Anaerobic	glucose	NA	potassiumnitrate	NA	anaerobic	1	potassiumnitrate	potassiumnitrate_1
+DN_anaerobic_glc_pospotassiumnitrate_an_2_A	DanFunctionalModules1	Anaerobic	glucose	NA	potassiumnitrate	NA	anaerobic	2	potassiumnitrate	potassiumnitrate_2
+DN_anaerobic_glcwithpotassiumnitrate_NA_an_20_plate0002	DanFunctionalModules2	Anaerobic	glucose	NA	potassiumnitrate	NA	anaerobic	6	potassiumnitrate	potassiumnitrate_6
+DN_anaerobic_glcwithpotassiumnitrate_NA_an_21_plate0002	DanFunctionalModules2	Anaerobic	glucose	NA	potassiumnitrate	NA	anaerobic	7	potassiumnitrate	potassiumnitrate_7
+DN_anaerobic_glcwithpotassiumnitrate_NA_an_22_plate0002	DanFunctionalModules2	Anaerobic	glucose	NA	potassiumnitrate	NA	anaerobic	8	potassiumnitrate	potassiumnitrate_8
+DN_anaerobic_glc_pospotassiumnitrate_an_3_A	DanFunctionalModules1	Anaerobic	glucose	NA	potassiumnitrate	NA	anaerobic	3	potassiumnitrate	potassiumnitrate_3
+DN_anaerobic_glc_pospotassiumnitrate_an_4_A	DanFunctionalModules1	Anaerobic	glucose	NA	potassiumnitrate	NA	anaerobic	4	potassiumnitrate	potassiumnitrate_4
+DN_anaerobic_glc_pospotassiumnitrate_an_5_A	DanFunctionalModules1	Anaerobic	glucose	NA	potassiumnitrate	NA	anaerobic	5	potassiumnitrate	potassiumnitrate_5
+DN_organicacids_propionate_ae_1_B	DanFunctionalModules1	Simple Substrates	propionate	NA	NA	NA	aerobic	1	propionate	propionate_1
+DN_organicacids_propionate_ae_2_B	DanFunctionalModules1	Simple Substrates	propionate	NA	NA	NA	aerobic	2	propionate	propionate_2
+DN_organicacids_propionate_ae_3_B	DanFunctionalModules1	Simple Substrates	propionate	NA	NA	NA	aerobic	3	propionate	propionate_3
+DN_organicacids_propionate_ae_4_B	DanFunctionalModules1	Simple Substrates	propionate	NA	NA	NA	aerobic	4	propionate	propionate_4
+DN_organicacids_propionate_ae_5_B	DanFunctionalModules1	Simple Substrates	propionate	NA	NA	NA	aerobic	5	propionate	propionate_5
+DN_PYR_10E3_7_17_18_1	DanFunctionalModules1	Simple Substrates	pyruvate	NA	NA	NA	aerobic	1	pyruvate	pyruvate_1
+DN_PYR_10E3_7_17_18_2	DanFunctionalModules1	Simple Substrates	pyruvate	NA	NA	NA	aerobic	2	pyruvate	pyruvate_2
+DN_PYR_10E3_7_17_18_3	DanFunctionalModules1	Simple Substrates	pyruvate	NA	NA	NA	aerobic	3	pyruvate	pyruvate_3
+DN_PYR_10E3_7_17_18_4	DanFunctionalModules1	Simple Substrates	pyruvate	NA	NA	NA	aerobic	4	pyruvate	pyruvate_4
+DN_PYR_10E3_7_17_18_5	DanFunctionalModules1	Simple Substrates	pyruvate	NA	NA	NA	aerobic	5	pyruvate	pyruvate_5
+DN_plantsugars_rhamnose_ae_1_B	DanFunctionalModules1	Simple Substrates	rhamnose	NA	NA	NA	aerobic	1	rhamnose	rhamnose_1
+DN_plantsugars_rhamnose_ae_2_B	DanFunctionalModules1	Simple Substrates	rhamnose	NA	NA	NA	aerobic	2	rhamnose	rhamnose_2
+DN_plantsugars_rhamnose_ae_3_B	DanFunctionalModules1	Simple Substrates	rhamnose	NA	NA	NA	aerobic	3	rhamnose	rhamnose_3
+DN_plantsugars_rhamnose_ae_5_B	DanFunctionalModules1	Simple Substrates	rhamnose	NA	NA	NA	aerobic	4	rhamnose	rhamnose_4
+DN_plantsugars_rhamnose_ae_8_B	DanFunctionalModules1	Simple Substrates	rhamnose	NA	NA	NA	aerobic	5	rhamnose	rhamnose_5
+DN_plantsugars_rhamnose_ae_10_B	DanFunctionalModules1	Simple Substrates	rhamnose	NA	NA	NA	aerobic	6	rhamnose	rhamnose_6
+DN_salttest_glc_possalt_ae_1_B	DanFunctionalModules1	Stresses	glucose	NA	NA	salt	aerobic	1	salt_glucose	salt_glucose_1
+DN_salttest_glc_possalt_ae_2_B	DanFunctionalModules1	Stresses	glucose	NA	NA	salt	aerobic	2	salt_glucose	salt_glucose_2
+DN_salttest_glc_possalt_ae_3_B	DanFunctionalModules1	Stresses	glucose	NA	NA	salt	aerobic	3	salt_glucose	salt_glucose_3
+DN_salttest_glc_possalt_ae_4_B	DanFunctionalModules1	Stresses	glucose	NA	NA	salt	aerobic	4	salt_glucose	salt_glucose_4
+DN_salttest_glc_possalt_ae_5_B	DanFunctionalModules1	Stresses	glucose	NA	NA	salt	aerobic	5	salt_glucose	salt_glucose_5
+DN_stresses_nacetylglucosamine_salt_ae_1_plate0001	DanFunctionalModules2	Stresses	n-acetylglucosamine	NA	NA	salt	aerobic	1	salt_n-acetylglucosamine	salt_n-acetylglucosamine_1
+DN_stresses_nacetylglucosamine_salt_ae_4_plate0001	DanFunctionalModules2	Stresses	n-acetylglucosamine	NA	NA	salt	aerobic	2	salt_n-acetylglucosamine	salt_n-acetylglucosamine_2
+DN_stresses_nacetylglucosamine_salt_ae_6_plate0001	DanFunctionalModules2	Stresses	n-acetylglucosamine	NA	NA	salt	aerobic	3	salt_n-acetylglucosamine	salt_n-acetylglucosamine_3
+DN_stresses_nacetylglucosamine_salt_ae_12_plate0001	DanFunctionalModules2	Stresses	n-acetylglucosamine	NA	NA	salt	aerobic	4	salt_n-acetylglucosamine	salt_n-acetylglucosamine_4
+DN_stresses_nacetylglucosamine_salt_ae_13_plate0001	DanFunctionalModules2	Stresses	n-acetylglucosamine	NA	NA	salt	aerobic	5	salt_n-acetylglucosamine	salt_n-acetylglucosamine_5
+DN_stresses_nacetylglucosamine_salt_ae_14_plate0001	DanFunctionalModules2	Stresses	n-acetylglucosamine	NA	NA	salt	aerobic	6	salt_n-acetylglucosamine	salt_n-acetylglucosamine_6
+DN_stresses_xylan_salt_ae_2_plate0001	DanFunctionalModules2	Stresses	xylan	NA	NA	salt	aerobic	1	salt_xylan	salt_xylan_1
+DN_stresses_xylan_salt_ae_7_plate0001	DanFunctionalModules2	Stresses	xylan	NA	NA	salt	aerobic	2	salt_xylan	salt_xylan_2
+DN_stresses_xylan_salt_ae_8_plate0001	DanFunctionalModules2	Stresses	xylan	NA	NA	salt	aerobic	3	salt_xylan	salt_xylan_3
+DN_stresses_xylan_salt_ae_10_plate0001	DanFunctionalModules2	Stresses	xylan	NA	NA	salt	aerobic	4	salt_xylan	salt_xylan_4
+DN_stresses_xylan_salt_ae_12_plate0001	DanFunctionalModules2	Stresses	xylan	NA	NA	salt	aerobic	5	salt_xylan	salt_xylan_5
+DN_stresses_xylan_salt_ae_16_plate0001	DanFunctionalModules2	Stresses	xylan	NA	NA	salt	aerobic	6	salt_xylan	salt_xylan_6
+DN_stresses_xylose_salt_ae_3_plate0001	DanFunctionalModules2	Stresses	xylose	NA	NA	salt	aerobic	1	salt_xylose	salt_xylose_1
+DN_stresses_xylose_salt_ae_4_plate0001	DanFunctionalModules2	Stresses	xylose	NA	NA	salt	aerobic	2	salt_xylose	salt_xylose_2
+DN_stresses_xylose_salt_ae_5_plate0001	DanFunctionalModules2	Stresses	xylose	NA	NA	salt	aerobic	3	salt_xylose	salt_xylose_3
+DN_stresses_xylose_salt_ae_12_plate0001	DanFunctionalModules2	Stresses	xylose	NA	NA	salt	aerobic	4	salt_xylose	salt_xylose_4
+DN_stresses_xylose_salt_ae_15_plate0001	DanFunctionalModules2	Stresses	xylose	NA	NA	salt	aerobic	5	salt_xylose	salt_xylose_5
+DN_soilcontrol_soilextract_NA_ae_1_plate0002	DanFunctionalModules2	Soil	soilextract	NA	NA	NA	aerobic	1	soil_control	soil_control_1
+DN_soilcontrol_soilextract_NA_ae_10_plate0002	DanFunctionalModules2	Soil	soilextract	NA	NA	NA	aerobic	8	soil_control	soil_control_8
+DN_soilcontrol_soilextract_NA_ae_4_plate0002	DanFunctionalModules2	Soil	soilextract	NA	NA	NA	aerobic	2	soil_control	soil_control_2
+DN_soilcontrol_soilextract_NA_ae_5_plate0002	DanFunctionalModules2	Soil	soilextract	NA	NA	NA	aerobic	3	soil_control	soil_control_3
+DN_soilcontrol_soilextract_NA_ae_6_plate0002	DanFunctionalModules2	Soil	soilextract	NA	NA	NA	aerobic	4	soil_control	soil_control_4
+DN_soilcontrol_soilextract_NA_ae_7_plate0002	DanFunctionalModules2	Soil	soilextract	NA	NA	NA	aerobic	5	soil_control	soil_control_5
+DN_soilcontrol_soilextract_NA_ae_8_plate0002	DanFunctionalModules2	Soil	soilextract	NA	NA	NA	aerobic	6	soil_control	soil_control_6
+DN_soilcontrol_soilextract_NA_ae_9_plate0002	DanFunctionalModules2	Soil	soilextract	NA	NA	NA	aerobic	7	soil_control	soil_control_7
+DN_STREP_EARLY_8_31_18_1	DanFunctionalModules1	Antibiotics	glucose	streptomycin	NA	NA	aerobic	1	streptomycin	streptomycin_1
+DN_antibiotics_glcwithstreptomycin_NA_ae_10_plate0002	DanFunctionalModules2	Antibiotics	glucose	streptomycin	NA	NA	aerobic	6	streptomycin	streptomycin_6
+DN_antibiotics_glcwithstreptomycin_NA_ae_12_plate0002	DanFunctionalModules2	Antibiotics	glucose	streptomycin	NA	NA	aerobic	7	streptomycin	streptomycin_7
+DN_antibiotics_glcwithstreptomycin_NA_ae_14_plate0002	DanFunctionalModules2	Antibiotics	glucose	streptomycin	NA	NA	aerobic	8	streptomycin	streptomycin_8
+DN_antibiotics_glcwithstreptomycin_NA_ae_15_plate0002	DanFunctionalModules2	Antibiotics	glucose	streptomycin	NA	NA	aerobic	9	streptomycin	streptomycin_9
+DN_STREP_EARLY_8_31_18_2	DanFunctionalModules1	Antibiotics	glucose	streptomycin	NA	NA	aerobic	2	streptomycin	streptomycin_2
+DN_STREP_EARLY_8_31_18_3	DanFunctionalModules1	Antibiotics	glucose	streptomycin	NA	NA	aerobic	3	streptomycin	streptomycin_3
+DN_STREP_EARLY_8_31_18_4	DanFunctionalModules1	Antibiotics	glucose	streptomycin	NA	NA	aerobic	4	streptomycin	streptomycin_4
+DN_STREP_EARLY_8_31_18_5	DanFunctionalModules1	Antibiotics	glucose	streptomycin	NA	NA	aerobic	5	streptomycin	streptomycin_5
+DN_SUC_10E3_7_23_18_1	DanFunctionalModules1	Polysaccharides	sucrose	NA	NA	NA	aerobic	1	sucrose	sucrose_1
+DN_SUC_10E3_7_23_18_2	DanFunctionalModules1	Polysaccharides	sucrose	NA	NA	NA	aerobic	2	sucrose	sucrose_2
+DN_SUC_10E3_7_23_18_3	DanFunctionalModules1	Polysaccharides	sucrose	NA	NA	NA	aerobic	3	sucrose	sucrose_3
+DN_SUC_10E3_7_23_18_4	DanFunctionalModules1	Polysaccharides	sucrose	NA	NA	NA	aerobic	4	sucrose	sucrose_4
+DN_SUC_10E3_7_23_18_5	DanFunctionalModules1	Polysaccharides	sucrose	NA	NA	NA	aerobic	5	sucrose	sucrose_5
+DN_antibiotics_glc_postetracycline_ae_1_B	DanFunctionalModules1	Antibiotics	glucose	tetracycline	NA	NA	aerobic	1	tetracycline	tetracycline_1
+DN_antibiotics_glc_postetracycline_ae_2_B	DanFunctionalModules1	Antibiotics	glucose	tetracycline	NA	NA	aerobic	2	tetracycline	tetracycline_2
+DN_antibiotics_glc_postetracycline_ae_3_B	DanFunctionalModules1	Antibiotics	glucose	tetracycline	NA	NA	aerobic	3	tetracycline	tetracycline_3
+DN_antibiotics_glc_postetracycline_ae_4_B	DanFunctionalModules1	Antibiotics	glucose	tetracycline	NA	NA	aerobic	4	tetracycline	tetracycline_4
+DN_antibiotics_glc_postetracycline_ae_5_B	DanFunctionalModules1	Antibiotics	glucose	tetracycline	NA	NA	aerobic	5	tetracycline	tetracycline_5
+DN_plantsugars_trehalose_ae_1_B	DanFunctionalModules1	Polysaccharides	trehalose	NA	NA	NA	aerobic	1	trehalose	trehalose_1
+DN_plantsugars_trehalose_ae_2_B	DanFunctionalModules1	Polysaccharides	trehalose	NA	NA	NA	aerobic	2	trehalose	trehalose_2
+DN_simplesugar_trehalose_NA_ae_21_plate0002	DanFunctionalModules2	Polysaccharides	trehalose	NA	NA	NA	aerobic	6	trehalose	trehalose_6
+DN_simplesugar_trehalose_NA_ae_23_plate0002	DanFunctionalModules2	Polysaccharides	trehalose	NA	NA	NA	aerobic	7	trehalose	trehalose_7
+DN_plantsugars_trehalose_ae_3_B	DanFunctionalModules1	Polysaccharides	trehalose	NA	NA	NA	aerobic	3	trehalose	trehalose_3
+DN_plantsugars_trehalose_ae_4_B	DanFunctionalModules1	Polysaccharides	trehalose	NA	NA	NA	aerobic	4	trehalose	trehalose_4
+DN_plantsugars_trehalose_ae_5_B	DanFunctionalModules1	Polysaccharides	trehalose	NA	NA	NA	aerobic	5	trehalose	trehalose_5
+DN_plantsugars_xylan_ae_2_B	DanFunctionalModules1	Polysaccharides	xylan	NA	NA	control	aerobic	1	xylan	xylan_1
+DN_polysaccharide_xylan_NA_ae_11_plate0002	DanFunctionalModules2	Polysaccharides	xylan	NA	NA	control	aerobic	5	xylan	xylan_5
+DN_polysaccharide_xylan_NA_ae_13_plate0002	DanFunctionalModules2	Polysaccharides	xylan	NA	NA	control	aerobic	6	xylan	xylan_6
+DN_polysaccharide_xylan_NA_ae_15_plate0002	DanFunctionalModules2	Polysaccharides	xylan	NA	NA	control	aerobic	7	xylan	xylan_7
+DN_polysaccharide_xylan_NA_ae_16_plate0002	DanFunctionalModules2	Polysaccharides	xylan	NA	NA	control	aerobic	8	xylan	xylan_8
+DN_polysaccharide_xylan_NA_ae_17_plate0002	DanFunctionalModules2	Polysaccharides	xylan	NA	NA	control	aerobic	9	xylan	xylan_9
+DN_plantsugars_xylan_ae_3_B	DanFunctionalModules1	Polysaccharides	xylan	NA	NA	control	aerobic	2	xylan	xylan_2
+DN_plantsugars_xylan_ae_4_B	DanFunctionalModules1	Polysaccharides	xylan	NA	NA	control	aerobic	3	xylan	xylan_3
+DN_plantsugars_xylan_ae_5_B	DanFunctionalModules1	Polysaccharides	xylan	NA	NA	control	aerobic	4	xylan	xylan_4
+DN_plantsugars_xylose_ae_1_B	DanFunctionalModules1	Simple Substrates	xylose	NA	NA	control	aerobic	1	xylose	xylose_1
+DN_simplesugar_xylose_NA_ae_13_plate0002	DanFunctionalModules2	Simple Substrates	xylose	NA	NA	control	aerobic	5	xylose	xylose_5
+DN_simplesugar_xylose_NA_ae_16_plate0002	DanFunctionalModules2	Simple Substrates	xylose	NA	NA	control	aerobic	6	xylose	xylose_6
+DN_simplesugar_xylose_NA_ae_17_plate0002	DanFunctionalModules2	Simple Substrates	xylose	NA	NA	control	aerobic	7	xylose	xylose_7
+DN_plantsugars_xylose_ae_2_B	DanFunctionalModules1	Simple Substrates	xylose	NA	NA	control	aerobic	2	xylose	xylose_2
+DN_plantsugars_xylose_ae_3_B	DanFunctionalModules1	Simple Substrates	xylose	NA	NA	control	aerobic	3	xylose	xylose_3
+DN_plantsugars_xylose_ae_4_B	DanFunctionalModules1	Simple Substrates	xylose	NA	NA	control	aerobic	4	xylose	xylose_4
